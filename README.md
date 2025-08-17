@@ -1,3 +1,5 @@
+# Chaindom Wallet Core
+
 Chaindom Wallet Core is an open-source **multi-chain crypto wallet core** written entirely in **Swift**.
 
 It provides developers with a clean, secure, and modular foundation for building crypto wallets that support multiple blockchains, **100% Swift**.
